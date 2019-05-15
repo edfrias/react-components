@@ -1,0 +1,19 @@
+// @import './src/components/blockContent/index.scss'
+
+body {
+  font-size: 16px;
+}
+
+main {
+  header {
+    height: 80px;
+  }
+
+  .content {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 1.4rem;
+  }
+
+  footer {}
+}
